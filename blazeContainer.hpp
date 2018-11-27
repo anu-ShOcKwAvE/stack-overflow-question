@@ -1,23 +1,3 @@
-/*
-                 THE BLAZE C++ LIBRARY
-                    <blazeContainer.hp
-                ---Written by: Anu Panicker---
-                
-Firstly, I am taking the time to thank all those people who gave me solutions to many of the seemingly impossible 
-challenges I faced during writing this library. 
-
-Secondly, I thank myself for not burning the computer 
-even when the compiler said there were errors in the
-comments.
-
-Licensed under the MIT License <http://opensource.org/licenses/MIT>.
-SPDX-License-Identifier: MIT
-Copyright (c) 2018 Anu Panicker. 
-Email: anupanicker@rocketmail.com
-Insta: middle.finger.is.my.peace.sign
-
-DISCLAIMER: When I wrote this code only me and god understood it, at the time you are reading this only god will be able to understand this, so if you find any mistakes you have to deal with it yourself.
-*/
 
 #ifndef BLAZE_HPP
 #define BLAZE_HPP
