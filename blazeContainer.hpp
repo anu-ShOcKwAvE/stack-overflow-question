@@ -840,7 +840,7 @@ inline void swap(uvector<Tp,Alloc>& x, uvector<Tp,Alloc>& y)
 {
 	x.swap(y);
 }
-	#include<vector>
+
 template <typename T>
 class uvector2d 
 {
@@ -859,7 +859,7 @@ uvector2d(std::initializer_list<std::initializer_list<T>> list)
    T const & operator()(size_t xNum, size_t yNum) const      {return data[xNum*yAxis+yNum];}
 private:
     size_t xAxis,yAxis;
-    vector<T> data; 
+    uvector<T> data; 
 };
     
 template <typename T>
